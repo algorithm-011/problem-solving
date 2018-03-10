@@ -22,4 +22,4 @@ problem solving을 공부한 결과를 공유하는 저장소입니다.
 
 - [Team](https://github.com/orgs/algorithm-011/teams)에서 매주 스터디에 관한 공지사항이 올라갈 예정입니다. 유용한 정보를 얻을 수 있는 링크도 올릴테니 종종 확인해주세요.
 
-- [Issue](https://github.com/algorithm-011/problem-solving)에서 질의응답을 해주세요~
+- [Issue](https://github.com/algorithm-011/problem-solving/issues)에서 질의응답을 해주세요~
