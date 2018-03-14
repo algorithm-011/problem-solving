@@ -23,7 +23,7 @@
 #### Basic
 - [x] 스택: https://www.acmicpc.net/problem/10828
 - [x] 큐: https://www.acmicpc.net/problem/10845
-- [ ] 트리 순회: https://www.acmicpc.net/problem/1991
+- [x] 트리 순회: https://www.acmicpc.net/problem/1991
 - [x] 중복 빼고 정렬: https://www.acmicpc.net/problem/10867
 
 ##### Advanced
