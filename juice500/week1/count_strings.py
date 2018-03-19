@@ -1,5 +1,3 @@
-import math
-
 def regex_to_nfa(regex):
     nfa = [{'a':[], 'b':[], 'e':[]} for i in range(len(regex)+1)]
     ops = []
@@ -102,6 +100,7 @@ def solve(regex, str_len):
     dfa = nfa_to_dfa(regex_to_nfa(regex))
     adj = matrix_exp(dfa_to_adj_matrix(dfa), str_len)
     return sum([adj[(0, i)] for i in range(adj['size']) if dfa[i]['is_final']]) % 1000000007
+
 
 testcases = int(input())
 for _ in range(testcases):
