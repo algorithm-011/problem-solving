@@ -103,21 +103,6 @@ def solve(regex, str_len):
     adj = matrix_exp(dfa_to_adj_matrix(dfa), str_len)
     return sum([adj[(0, i)] for i in range(adj['size']) if dfa[i]['is_final']]) % 1000000007
 
-'''
-for i, l in enumerate(nfa_to_dfa(regex_to_nfa('((a*)(b(a*)))'))):
-    print(i, l)
-
-mat = {
-    (0,0): 1, (0,1): 2,
-    (1,0): 3, (1,1): 4,
-    'size': 2,
-}
-
-mat = matrix_exp(mat, 10)
-for i in range(2):
-    print(' '.join(str(mat[(i,j)]) for j in range(2)))
-'''
-
 testcases = int(input())
 for _ in range(testcases):
     regex, str_len = input().strip().split()
