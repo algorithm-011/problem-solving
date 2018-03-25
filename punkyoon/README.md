@@ -32,3 +32,30 @@
 - [x] 듣보잡: https://www.acmicpc.net/problem/1764
 - [x] 저항: https://www.acmicpc.net/problem/1076
 
+## WEEK2 (18.3.19 ~ 18.3.25)
+
+### HackerRank
+
+#### Basic
+
+- [x] Insertion Sort - Part 2: https://www.hackerrank.com/challenges/insertionsort2
+- [ ] Quicksort 1 - Partition: https://www.hackerrank.com/challenges/quicksort1
+- [ ] Counting Sort 2: https://www.hackerrank.com/challenges/countingsort2/problem
+
+#### Advanced
+
+- [ ] Lily's Homework: https://www.hackerrank.com/challenges/lilys-homework/problem
+- [ ] Fraudulent Activity Notifications: https://www.hackerrank.com/challenges/fraudulent-activity-notifications
+
+### Baekjoon
+
+#### Basic
+- [ ] 힙: https://www.acmicpc.net/problem/1927
+- [x] 최소, 최대: https://www.acmicpc.net/problem/10818
+- [ ] 좌표 정렬: https://www.acmicpc.net/problem/11651
+
+#### Advanced
+- [ ] 나이순 정렬: https://www.acmicpc.net/problem/10814
+- [ ] 국영수: https://www.acmicpc.net/problem/10825
+- [ ] 팰린드롬 만들기: https://www.acmicpc.net/problem/1213
+- [ ] 단어 정렬: https://www.acmicpc.net/problem/1181
