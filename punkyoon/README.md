@@ -59,3 +59,54 @@
 - [ ] 국영수: https://www.acmicpc.net/problem/10825
 - [ ] 팰린드롬 만들기: https://www.acmicpc.net/problem/1213
 - [ ] 단어 정렬: https://www.acmicpc.net/problem/1181
+
+## WEEK3 (18.3.26 ~ 18.4.1)
+
+### HackerRank
+
+#### Basic
+- [ ] Icecream Parlor: https://www.hackerrank.com/challenges/icecream-parlor
+- [ ] KnightL on a Chessboard: https://www.hackerrank.com/challenges/knightl-on-chessboard
+- [ ] Sherlock and Array: https://www.hackerrank.com/challenges/sherlock-and-array
+
+#### Advanced
+- [ ] Connected Cells in a Grid: https://www.hackerrank.com/challenges/connected-cell-in-a-grid
+- [ ]Cut the Tree: https://www.hackerrank.com/challenges/cut-the-tree
+- [ ] Red Knight's Shortest Path: https://www.hackerrank.com/challenges/red-knights-shortest-path
+
+### Baekjoon
+
+#### Basic
+- [ ] 종이의 개수: https://www.acmicpc.net/problem/1780
+- [ ] Z: https://www.acmicpc.net/problem/1074
+
+#### Advanced
+- [ ] 별찍기: https://www.acmicpc.net/problem/2448
+- [ ] 가장 가까운 두 점: https://www.acmicpc.net/problem/2261
+
+## WEEK4 (18.4.2 ~ 18.4.8)
+
+### HackerRank
+
+#### Basic
+- [ ] Kruskal (MST): Really Special Subtree: https://www.hackerrank.com/challenges/kruskalmstrsub
+- [ ] Even Tree: https://www.hackerrank.com/challenges/even-tree
+
+#### Advanced
+- [ ] Journey to the Moon: https://www.hackerrank.com/challenges/journey-to-the-moon
+- [ ] Roads and Libraries: https://www.hackerrank.com/challenges/torque-and-development
+
+### Baekjoon
+
+#### Basic
+- [ ] 1, 2, 3 더하기: https://www.acmicpc.net/problem/9095
+- [ ] 붕어빵 판매하기: https://www.acmicpc.net/problem/11052
+- [ ] 오르막 수: https://www.acmicpc.net/problem/11057
+- [ ] 합분해 : https://www.acmicpc.net/problem/2225
+
+#### Advanced
+- [ ] 제곱수의 합: https://www.acmicpc.net/problem/1699
+- [ ] 가장 긴 증가하는 부분 수열: https://www.acmicpc.net/problem/11053
+- [ ] 2*n 타일링: https://www.acmicpc.net/problem/11726
+- [ ] 포도주 만들기: https://www.acmicpc.net/problem/2156
+- [ ] 1로 만들기: https://www.acmicpc.net/problem/1463
