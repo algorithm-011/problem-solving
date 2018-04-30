@@ -3,4 +3,4 @@ project(week_000)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(week_000 main.cpp)
+add_executable(week_000 main.cpp main.h)
